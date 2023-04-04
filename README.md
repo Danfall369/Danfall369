@@ -22,3 +22,17 @@ Happy Coding! 😊
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDanfall369" alt="Twitter"></a>
 
 </div>
+
+<div align="center" width="50"><i>Check my Stats!</i></div><br></div>
+
+<div align="center" width="50">
+
+[![Danfall GitHub stats](https://github-readme-stats.vercel.app/api?username=Danfall369&&show_icons=true&theme=outrun)](https://github.com/Danfall369)
+
+</div>
+
+<div align="center" width="50">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfall369&theme=outrun)](https://github.com/Danfall369)
+  
+</div>
