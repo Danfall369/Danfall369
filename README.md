@@ -17,7 +17,7 @@ Happy Coding! 😊
 - 🏫 I’m currently a student at Microverse on Full-Stack Web Development.
 - :godmode: I’m looking to collaborate on Front-end Projects as well as any other projects.
 - 💬 Ask me about Technology, Videogames, History & Music 
-- 📫 How to reach me: Danfall369@Gmail.com
+- 📫 How to reach me: falcon-vargas@Hotmail.com
 - ⚡ Open to new Job Opportunities!
 
 
