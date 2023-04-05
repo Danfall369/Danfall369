@@ -18,7 +18,7 @@ Happy Coding! 😊
 - :godmode: I’m looking to collaborate on Front-end Projects as well as any other projects.
 - 💬 Ask me about Technology, Videogames, History & Music 
 - 📫 How to reach me: Danfall369@Gmail.com
-- ⚡ Open to new Job Opportunity!
+- ⚡ Open to new Job Opportunities!
 
 
 <div align="center">
