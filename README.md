@@ -14,11 +14,11 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 
-- 🏫 I’m currently a student at Microverse on Full-Stack Web Development.
-- :godmode: I’m looking to collaborate on Front-end Projects as well as any other projects.
-- 💬 Ask me about Technology, Videogames, History & Music 
-- 📫 How to reach me: falcon-vargas@Hotmail.com
-- ⚡ Open to new Job Opportunities!
+ 🏫 I’m currently a student at Microverse on Full-Stack Web Development.
+ :godmode: I’m looking to collaborate on Front-end Projects as well as any other projects.
+ 💬 Ask me about Technology, Videogames, History & Music 
+ 📫 How to reach me: falcon-vargas@Hotmail.com
+ ⚡ Open to new Job Opportunities!
 
 
 <div align="center">
@@ -49,6 +49,7 @@ Happy Coding! 😊
 <div align="center" width="50">
 
 [![Danfall GitHub stats](https://github-readme-stats.vercel.app/api?username=Danfall369&&show_icons=true&theme=outrun)](https://github.com/Danfall369)
+<br><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfall369&theme=outrun)](https://github.com/Danfall369)
 
 </div>
