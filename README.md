@@ -38,7 +38,7 @@ Happy Coding! 😊
 <div align="center" width="50">
   <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=netlify,html,css,js,bootstrap,webpack,vscode,git,github,jest,react,vite,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,css,figma,git,github,html,jest,js,linux,netlify,nodejs,powershell,postgres,react,redux,replit,stackoverflow,vite,vscode,webpack&perline=11)](https://skillicons.dev)
   
 </div>
 
